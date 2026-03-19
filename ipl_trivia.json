@@ -1,1 +1,38 @@
-
+{
+  "RCB vs SRH": {
+    "head_to_head": "RCB leads 11-13 overall (as of early 2026) | SRH won last IPL meeting by 42 runs",
+    "rcb_facts": [
+      "0 IPL titles but 3 finals appearances (2009, 2011, 2016)",
+      "Highest team total: 263/5 (2013)",
+      "Virat Kohli holds record 973 runs in a season (2016)"
+    ],
+    "srh_facts": [
+      "1 IPL title (2016)",
+      "Highest IPL team total ever: 287/3 (vs RCB, 2024)",
+      "Known for explosive batting – most sixes as a team in history"
+    ],
+    "trivia": [
+      "These teams met in IPL 2016 final – SRH won by 8 runs",
+      "RCB chased 200+ vs SRH twice in history",
+      "SRH has won big in recent clashes (42-run win in 2025)"
+    ]
+  },
+  "MI vs KKR": {
+    "head_to_head": "MI dominates 24-11 across 35 matches (as of 2026)",
+    "mi_facts": [
+      "5 IPL titles (most joint with CSK)",
+      "Most finals appearances",
+      "Hardik Pandya captain in 2026"
+    ],
+    "kkr_facts": [
+      "3 IPL titles (including 2024)",
+      "Cameron Green bought for record ₹25.20 crore in 2026 auction",
+      "Strong spin attack with Narine"
+    ],
+    "trivia": [
+      "MI has 69% win rate vs KKR",
+      "KKR won IPL 2024 final vs SRH"
+    ]
+  }
+  // Add more pairs as needed
+}
